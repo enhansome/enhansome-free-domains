@@ -1,14 +1,9 @@
 {
-  "items": [
-    {
-      "description": "This project is licensed under the MIT License. ⬆️ Back to Top",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T20:10:07.614Z",
+    "last_updated": "2026-08-19T12:30:49.797Z",
     "original_repository": "harys722/free-domains",
+    "original_repository_id": 1005039612,
     "original_repository_sha": "490d6fa8ebaaadcdd4635fd35a88c7083ab2dc41",
     "enhanced_repository": "enhansome/enhansome-free-domains",
     "enhanced_repository_description": null,
