@@ -12,10 +12,10 @@
             "archived": false,
             "id": 301216792,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:13:08Z",
+            "last_commit": "2026-08-25T05:12:00Z",
             "owner": "is-a-dev",
             "repo": "register",
-            "stars": 11059
+            "stars": 11061
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1323967468,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T16:16:46Z",
+            "last_commit": "2026-08-24T22:45:57Z",
             "owner": "free-domains",
             "repo": "is-a.bot",
             "stars": 81
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-12T10:36:46Z",
             "owner": "DigitalPlatDev",
             "repo": "FreeDomain",
-            "stars": 195499
+            "stars": 195561
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-05T05:56:28Z",
             "owner": "is-cool-me",
             "repo": "register",
-            "stars": 462
+            "stars": 469
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1693
+            "stars": 1694
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-18T08:49:43Z",
             "owner": "stackryze",
             "repo": "FreeDomains",
-            "stars": 10476
+            "stars": 10487
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-07-16T05:37:06Z",
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 224
+            "stars": 227
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-07-16T05:37:06Z",
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 224
+            "stars": 227
           }
         },
         {
@@ -365,8 +365,8 @@
         },
         {
           "node_type": "item",
-          "title": "www.dnshe.com",
-          "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc) dnshe/DNSHE-FreeDomains ✅",
+          "title": "dnshe/DNSHE-FreeDomains",
+          "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc) ✅",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
             "last_commit": "2026-06-13T07:54:32Z",
             "owner": "dnshe",
             "repo": "DNSHE-FreeDomains",
-            "stars": 12833
+            "stars": 12891
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-03-15T11:44:43Z",
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 1823
+            "stars": 1825
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2026-03-15T05:59:54Z",
             "owner": "nevercode-in",
             "repo": "FreeDomains",
-            "stars": 709
+            "stars": 712
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-12-19T06:46:13Z",
             "owner": "Olivr",
             "repo": "free-domain",
-            "stars": 798
+            "stars": 799
           }
         },
         {
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:16:34.073Z",
+    "last_updated": "2026-08-25T06:35:20.907Z",
     "original_repository": "harys722/free-domains",
     "original_repository_id": 1005039612,
     "original_repository_sha": "490d6fa8ebaaadcdd4635fd35a88c7083ab2dc41",
