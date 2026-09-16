@@ -15,11 +15,11 @@
             "id": 301216792,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T19:40:42Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-16T21:57:10Z",
+            "open_issues": 63,
             "owner": "is-a-dev",
             "repo": "register",
-            "stars": 11310,
+            "stars": 11315,
             "topics": [
               "cloudflare",
               "dev",
@@ -52,10 +52,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T18:16:10Z",
-            "open_issues": 2,
+            "open_issues": 11,
             "owner": "free-domains",
             "repo": "is-a.bot",
-            "stars": 121,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -72,8 +72,8 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-15T14:16:05Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-16T13:47:42Z",
+            "open_issues": 6,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5854,
@@ -141,7 +141,7 @@
             "open_issues": 38,
             "owner": "DigitalPlatDev",
             "repo": "FreeDomain",
-            "stars": 199545,
+            "stars": 199702,
             "topics": [
               "digitalplat",
               "dns",
@@ -178,7 +178,7 @@
             "open_issues": 1,
             "owner": "Pokymon",
             "repo": "foo.ng",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "custom-domain",
               "developer-tools",
@@ -217,7 +217,7 @@
             "open_issues": 0,
             "owner": "is-cool-me",
             "repo": "register",
-            "stars": 494,
+            "stars": 497,
             "topics": [
               "cloudflare",
               "dns",
@@ -249,7 +249,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-09T02:20:58Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "is-a-good-dev",
             "repo": "register",
             "stars": 618,
@@ -339,7 +339,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 363,
+            "open_issues": 368,
             "owner": "thedev-id",
             "repo": "thedev.id",
             "stars": 1726,
@@ -409,7 +409,7 @@
             "open_issues": 12,
             "owner": "katorlys",
             "repo": "rweb.site",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "cname",
               "custom",
@@ -571,10 +571,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-14T15:27:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "creepersbs",
             "repo": "register",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "dev",
               "developer",
@@ -677,11 +677,11 @@
             "id": 1117828152,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T21:13:34Z",
+            "last_commit": "2026-09-16T11:47:56Z",
             "open_issues": 0,
             "owner": "stackryze",
             "repo": "FreeDomains",
-            "stars": 11620,
+            "stars": 11664,
             "topics": [
               "developer-tools",
               "dns",
@@ -710,7 +710,7 @@
             "open_issues": 1,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 263,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -731,7 +731,7 @@
             "open_issues": 1,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 263,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -770,10 +770,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-06-13T07:54:32Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "dnshe",
             "repo": "DNSHE-FreeDomains",
-            "stars": 15306,
+            "stars": 15430,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -904,7 +904,7 @@
             "open_issues": 2,
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 2033,
+            "stars": 2036,
             "topics": [
               "dns",
               "dns-server",
@@ -940,7 +940,7 @@
             "open_issues": 1,
             "owner": "nevercode-in",
             "repo": "FreeDomains",
-            "stars": 833,
+            "stars": 837,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -1020,7 +1020,7 @@
             "id": 1307636308,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T06:47:22Z",
+            "last_commit": "2026-09-16T19:46:06Z",
             "open_issues": 2,
             "owner": "IlyaP358",
             "repo": "fluxcast-domains",
@@ -1059,7 +1059,7 @@
             "id": 1299847404,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-11T23:33:37Z",
+            "last_commit": "2026-09-16T07:08:37Z",
             "open_issues": 0,
             "owner": "Is-A-Stupid-Cat",
             "repo": "register",
@@ -1260,7 +1260,7 @@
             "open_issues": 285,
             "owner": "Olivr",
             "repo": "free-domain",
-            "stars": 805,
+            "stars": 804,
             "topics": [
               "domain",
               "domain-name",
@@ -1700,7 +1700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:30:09.494Z",
+    "last_updated": "2026-09-16T22:26:54.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of free subdomains ideal for personal websites, open-source projects, portfolio showcases, and innovative online ventures.",
