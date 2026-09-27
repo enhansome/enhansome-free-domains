@@ -15,11 +15,11 @@
             "id": 301216792,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T14:51:40Z",
-            "open_issues": 186,
+            "last_commit": "2026-09-27T14:21:18Z",
+            "open_issues": 249,
             "owner": "is-a-dev",
             "repo": "register",
-            "stars": 11394,
+            "stars": 11398,
             "topics": [
               "cloudflare",
               "dev",
@@ -52,10 +52,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-26T11:37:24Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "free-domains",
             "repo": "is-a.bot",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -72,11 +72,11 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-26T17:16:30Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-27T10:45:29Z",
+            "open_issues": 8,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5858,
+            "stars": 5859,
             "topics": [
               "community",
               "custom-domains",
@@ -141,7 +141,7 @@
             "open_issues": 38,
             "owner": "DigitalPlatDev",
             "repo": "FreeDomain",
-            "stars": 201261,
+            "stars": 201400,
             "topics": [
               "digitalplat",
               "dns",
@@ -175,10 +175,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-24T23:55:46Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "Pokymon",
             "repo": "foo.ng",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "custom-domain",
               "developer-tools",
@@ -217,7 +217,7 @@
             "open_issues": 0,
             "owner": "is-cool-me",
             "repo": "register",
-            "stars": 521,
+            "stars": 524,
             "topics": [
               "cloudflare",
               "dns",
@@ -252,7 +252,7 @@
             "open_issues": 10,
             "owner": "is-a-good-dev",
             "repo": "register",
-            "stars": 627,
+            "stars": 628,
             "topics": [
               "developer-freebie",
               "domain",
@@ -339,10 +339,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 385,
+            "open_issues": 386,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1741,
+            "stars": 1743,
             "topics": [
               "developer-tools",
               "dns",
@@ -373,7 +373,7 @@
             "open_issues": 73,
             "owner": "thedev-me",
             "repo": "register",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "dns",
               "free",
@@ -513,7 +513,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-15T09:45:37Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "partofmyid",
             "repo": "register",
             "stars": 43,
@@ -571,7 +571,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-17T00:26:06Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "creepersbs",
             "repo": "register",
             "stars": 148,
@@ -616,7 +616,7 @@
             "open_issues": 1912,
             "owner": "is-a-software",
             "repo": "is-a-software",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "boot",
               "cloudflare",
@@ -681,7 +681,7 @@
             "open_issues": 1,
             "owner": "stackryze",
             "repo": "FreeDomains",
-            "stars": 12100,
+            "stars": 12137,
             "topics": [
               "developer-tools",
               "dns",
@@ -710,7 +710,7 @@
             "open_issues": 2,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 285,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -731,7 +731,7 @@
             "open_issues": 2,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 285,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -770,10 +770,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-06-13T07:54:32Z",
-            "open_issues": 8,
+            "open_issues": 13,
             "owner": "dnshe",
             "repo": "DNSHE-FreeDomains",
-            "stars": 17331,
+            "stars": 17477,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -785,17 +785,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "CLI tool for AI agents to register domain names for free",
+            "description": "Free subdomains under makes.fyi / agentdomains.co, claimed from the CLI. A/AAAA/CNAME/TXT/NS records, auto-HTTPS proxy and forwarding for the sites and APIs AI agents build.",
             "homepage": "https://agentdomains.co",
             "id": 1255096810,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T13:56:46Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-27T14:43:42Z",
+            "open_issues": 2,
             "owner": "tashfeenahmed",
             "repo": "AgentDomains",
             "stars": 33,
-            "topics": []
+            "topics": [
+              "agentdomains",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "cloudflare",
+              "developer-tools",
+              "dns",
+              "dns-records",
+              "free-subdomain",
+              "https",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
         },
@@ -806,17 +818,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "CLI tool for AI agents to register domain names for free",
+            "description": "Free subdomains under makes.fyi / agentdomains.co, claimed from the CLI. A/AAAA/CNAME/TXT/NS records, auto-HTTPS proxy and forwarding for the sites and APIs AI agents build.",
             "homepage": "https://agentdomains.co",
             "id": 1255096810,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T13:56:46Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-27T14:43:42Z",
+            "open_issues": 2,
             "owner": "tashfeenahmed",
             "repo": "AgentDomains",
             "stars": 33,
-            "topics": []
+            "topics": [
+              "agentdomains",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "cloudflare",
+              "developer-tools",
+              "dns",
+              "dns-records",
+              "free-subdomain",
+              "https",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
         },
@@ -904,7 +928,7 @@
             "open_issues": 1,
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 2111,
+            "stars": 2117,
             "topics": [
               "dns",
               "dns-server",
@@ -940,7 +964,7 @@
             "open_issues": 1,
             "owner": "nevercode-in",
             "repo": "FreeDomains",
-            "stars": 869,
+            "stars": 878,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -1084,7 +1108,7 @@
             "open_issues": 42,
             "owner": "domainsproject",
             "repo": "register",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "dns",
               "domains",
@@ -1260,7 +1284,7 @@
             "open_issues": 285,
             "owner": "Olivr",
             "repo": "free-domain",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "domain",
               "domain-name",
@@ -1287,7 +1311,7 @@
             "open_issues": 0,
             "owner": "tarampampam",
             "repo": "domains",
-            "stars": 807,
+            "stars": 808,
             "topics": [
               "cloudflare",
               "dns",
@@ -1700,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:14:10.415Z",
+    "last_updated": "2026-09-27T22:37:54.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of free subdomains ideal for personal websites, open-source projects, portfolio showcases, and innovative online ventures.",
@@ -1712,7 +1736,7 @@
       "open_issues": 0,
       "owner": "harys722",
       "repo": "free-domains",
-      "stars": 123,
+      "stars": 124,
       "topics": [
         "awesome",
         "awesome-list",
