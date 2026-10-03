@@ -15,11 +15,11 @@
             "id": 301216792,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:30:00Z",
-            "open_issues": 397,
+            "last_commit": "2026-10-03T03:50:52Z",
+            "open_issues": 318,
             "owner": "is-a-dev",
             "repo": "register",
-            "stars": 11451,
+            "stars": 11452,
             "topics": [
               "cloudflare",
               "dev",
@@ -52,7 +52,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T14:20:16Z",
-            "open_issues": 17,
+            "open_issues": 8,
             "owner": "free-domains",
             "repo": "is-a.bot",
             "stars": 142,
@@ -73,7 +73,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-30T13:56:39Z",
-            "open_issues": 14,
+            "open_issues": 17,
             "owner": "js-org",
             "repo": "js.org",
             "stars": 5863,
@@ -141,7 +141,7 @@
             "open_issues": 38,
             "owner": "DigitalPlatDev",
             "repo": "FreeDomain",
-            "stars": 202197,
+            "stars": 202242,
             "topics": [
               "digitalplat",
               "dns",
@@ -512,7 +512,7 @@
             "id": 871197606,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:25:24Z",
+            "last_commit": "2026-10-03T02:58:52Z",
             "open_issues": 0,
             "owner": "partofmyid",
             "repo": "register",
@@ -681,7 +681,7 @@
             "open_issues": 1,
             "owner": "stackryze",
             "repo": "FreeDomains",
-            "stars": 12316,
+            "stars": 12324,
             "topics": [
               "developer-tools",
               "dns",
@@ -710,7 +710,7 @@
             "open_issues": 2,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -731,7 +731,7 @@
             "open_issues": 2,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -773,7 +773,7 @@
             "open_issues": 16,
             "owner": "dnshe",
             "repo": "DNSHE-FreeDomains",
-            "stars": 18438,
+            "stars": 18477,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -928,7 +928,7 @@
             "open_issues": 1,
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 2174,
+            "stars": 2176,
             "topics": [
               "dns",
               "dns-server",
@@ -964,7 +964,7 @@
             "open_issues": 2,
             "owner": "nevercode-in",
             "repo": "FreeDomains",
-            "stars": 908,
+            "stars": 909,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -1336,7 +1336,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2025-05-11T12:35:39Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "possibly-is-gay",
             "repo": "possibly-is-gay",
             "stars": 79,
@@ -1724,7 +1724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:22:01.411Z",
+    "last_updated": "2026-10-03T04:46:29.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of free subdomains ideal for personal websites, open-source projects, portfolio showcases, and innovative online ventures.",
