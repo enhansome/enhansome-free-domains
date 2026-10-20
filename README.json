@@ -15,11 +15,11 @@
             "id": 301216792,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T16:50:04Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-20T14:35:11Z",
+            "open_issues": 76,
             "owner": "is-a-dev",
             "repo": "register",
-            "stars": 11581,
+            "stars": 11587,
             "topics": [
               "cloudflare",
               "dev",
@@ -41,42 +41,6 @@
         },
         {
           "node_type": "item",
-          "title": "runs-on.dev",
-          "description": "Grab your own cool 'runs-on.dev' subdomain to use for free forever. zordhalo/runs-on.dev ✅",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Grab your own cool 'runs-on.dev' subdomain to use for free forever.",
-            "homepage": "https://runs-on.dev",
-            "id": 1351886195,
-            "language": "JavaScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T22:07:39Z",
-            "open_issues": 52,
-            "owner": "zordhalo",
-            "repo": "runs-on.dev",
-            "stars": 464,
-            "topics": [
-              "cloudflare",
-              "dev",
-              "developer",
-              "dns",
-              "domains",
-              "foss",
-              "free",
-              "free-domain",
-              "free-for-dev",
-              "free-for-developers",
-              "github-pages",
-              "oss",
-              "subdomains",
-              "website"
-            ]
-          },
-          "first_seen": "2026-10-19T23:11:01.313Z"
-        },
-        {
-          "node_type": "item",
           "title": "is-a.bot",
           "description": "Grab your own sweet-looking '.is-a.bot' subdomain. free-domains/is-a.bot ✅",
           "children": [],
@@ -87,41 +51,14 @@
             "id": 1323967468,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:19:14Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-20T17:22:56Z",
+            "open_issues": 7,
             "owner": "free-domains",
             "repo": "is-a.bot",
-            "stars": 162,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
-        },
-        {
-          "node_type": "item",
-          "title": "is-my.app",
-          "description": "Grab your own sweet-looking '.is-my.app' subdomain. jn-aman/is-my.app ✅",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free subdomains on is-my.app. Open a PR with a JSON file, get yourname.is-my.app. Point DNS anywhere or let us deploy your repo on Cloudflare Pages.",
-            "homepage": "https://is-my.app",
-            "id": 1395882868,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-19T19:20:46Z",
-            "open_issues": 1,
-            "owner": "jn-aman",
-            "repo": "is-my.app",
-            "stars": 0,
-            "topics": [
-              "cloudflare",
-              "cloudflare-pages",
-              "dns",
-              "free-domain",
-              "subdomain"
-            ]
-          },
-          "first_seen": "2026-10-19T23:11:01.313Z"
         },
         {
           "node_type": "item",
@@ -135,11 +72,11 @@
             "id": 33578240,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-19T16:55:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-20T13:32:52Z",
+            "open_issues": 9,
             "owner": "js-org",
             "repo": "js.org",
-            "stars": 5883,
+            "stars": 5882,
             "topics": [
               "community",
               "custom-domains",
@@ -169,7 +106,7 @@
             "open_issues": 2,
             "owner": "open-domains",
             "repo": "register",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "cloudflare",
               "dns",
@@ -204,7 +141,7 @@
             "open_issues": 38,
             "owner": "DigitalPlatDev",
             "repo": "FreeDomain",
-            "stars": 204944,
+            "stars": 205076,
             "topics": [
               "digitalplat",
               "dns",
@@ -237,11 +174,11 @@
             "id": 775815132,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-19T05:11:30Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-20T08:23:17Z",
+            "open_issues": 1,
             "owner": "Pokymon",
             "repo": "foo.ng",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "custom-domain",
               "developer-tools",
@@ -280,7 +217,7 @@
             "open_issues": 0,
             "owner": "is-cool-me",
             "repo": "register",
-            "stars": 584,
+            "stars": 586,
             "topics": [
               "cloudflare",
               "dns",
@@ -311,8 +248,8 @@
             "id": 383506161,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T07:18:25Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-20T15:58:26Z",
+            "open_issues": 9,
             "owner": "is-a-good-dev",
             "repo": "register",
             "stars": 631,
@@ -402,10 +339,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 425,
+            "open_issues": 428,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1783,
+            "stars": 1785,
             "topics": [
               "developer-tools",
               "dns",
@@ -433,7 +370,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-26T13:21:14Z",
-            "open_issues": 73,
+            "open_issues": 72,
             "owner": "thedev-me",
             "repo": "register",
             "stars": 152,
@@ -468,8 +405,8 @@
             "id": 773409684,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:13:13Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-20T13:43:41Z",
+            "open_issues": 7,
             "owner": "katorlys",
             "repo": "rweb.site",
             "stars": 340,
@@ -637,7 +574,7 @@
             "open_issues": 2,
             "owner": "creepersbs",
             "repo": "register",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "dev",
               "developer",
@@ -679,7 +616,7 @@
             "open_issues": 1902,
             "owner": "is-a-software",
             "repo": "is-a-software",
-            "stars": 191,
+            "stars": 190,
             "topics": [
               "boot",
               "cloudflare",
@@ -744,7 +681,7 @@
             "open_issues": 1,
             "owner": "stackryze",
             "repo": "FreeDomains",
-            "stars": 13209,
+            "stars": 13245,
             "topics": [
               "developer-tools",
               "dns",
@@ -773,7 +710,7 @@
             "open_issues": 0,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -794,7 +731,7 @@
             "open_issues": 0,
             "owner": "nerkoux",
             "repo": "vexr.dev",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -836,7 +773,7 @@
             "open_issues": 16,
             "owner": "dnshe",
             "repo": "DNSHE-FreeDomains",
-            "stars": 20288,
+            "stars": 20370,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -857,7 +794,7 @@
             "open_issues": 0,
             "owner": "tashfeenahmed",
             "repo": "AgentDomains",
-            "stars": 38,
+            "stars": 40,
             "topics": [
               "agentdomains",
               "ai-agents",
@@ -890,7 +827,7 @@
             "open_issues": 0,
             "owner": "tashfeenahmed",
             "repo": "AgentDomains",
-            "stars": 38,
+            "stars": 40,
             "topics": [
               "agentdomains",
               "ai-agents",
@@ -991,7 +928,7 @@
             "open_issues": 1,
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 2406,
+            "stars": 2417,
             "topics": [
               "dns",
               "dns-server",
@@ -1027,7 +964,7 @@
             "open_issues": 1,
             "owner": "nevercode-in",
             "repo": "FreeDomains",
-            "stars": 990,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -1107,7 +1044,7 @@
             "id": 1307636308,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T06:50:27Z",
+            "last_commit": "2026-10-20T12:26:06Z",
             "open_issues": 0,
             "owner": "IlyaP358",
             "repo": "fluxcast-domains",
@@ -1146,11 +1083,11 @@
             "id": 1299847404,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-05T12:47:47Z",
+            "last_commit": "2026-10-20T07:16:34Z",
             "open_issues": 1,
             "owner": "Is-A-Stupid-Cat",
             "repo": "register",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T02:32:10.931Z"
@@ -1167,7 +1104,7 @@
             "id": 991809421,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-09T14:50:08Z",
+            "last_commit": "2026-10-20T03:03:07Z",
             "open_issues": 0,
             "owner": "PublicFreeSuffix",
             "repo": "PublicFreeSuffix",
@@ -1236,7 +1173,7 @@
             "open_issues": 1,
             "owner": "intentfreedomain",
             "repo": "FreeDomain",
-            "stars": 2406,
+            "stars": 2417,
             "topics": [
               "dns",
               "dns-server",
@@ -1317,6 +1254,175 @@
             ]
           },
           "first_seen": "2026-10-15T22:44:04.240Z"
+        },
+        {
+          "node_type": "item",
+          "title": "runs-on.dev",
+          "description": "Grab your own cool 'runs-on.dev' subdomain to use for free forever. zordhalo/runs-on.dev ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Grab your own cool 'runs-on.dev' subdomain to use for free forever.",
+            "homepage": "https://runs-on.dev",
+            "id": 1351886195,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-20T22:34:46Z",
+            "open_issues": 54,
+            "owner": "zordhalo",
+            "repo": "runs-on.dev",
+            "stars": 468,
+            "topics": [
+              "cloudflare",
+              "dev",
+              "developer",
+              "dns",
+              "domains",
+              "foss",
+              "free",
+              "free-domain",
+              "free-for-dev",
+              "free-for-developers",
+              "github-pages",
+              "oss",
+              "subdomains",
+              "website"
+            ]
+          },
+          "first_seen": "2026-10-19T23:11:01.313Z"
+        },
+        {
+          "node_type": "item",
+          "title": "is-my.app",
+          "description": "Grab your own sweet-looking '.is-my.app' subdomain. jn-aman/is-my.app ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free subdomains on is-my.app. Open a PR with a JSON file, get yourname.is-my.app. Point DNS anywhere or let us deploy your repo on Cloudflare Pages.",
+            "homepage": "https://is-my.app",
+            "id": 1395882868,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-19T19:20:46Z",
+            "open_issues": 1,
+            "owner": "jn-aman",
+            "repo": "is-my.app",
+            "stars": 0,
+            "topics": [
+              "cloudflare",
+              "cloudflare-pages",
+              "dns",
+              "free-domain",
+              "subdomain"
+            ]
+          },
+          "first_seen": "2026-10-19T23:11:01.313Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dev-in.tw",
+          "description": "Free personal 'dev-in.tw' subdomain for Taiwanese developers. Dev-in-tw/dev-in.tw ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "給台灣開發者的免費個人子網域服務 · Free personal subdomains for Taiwanese developers",
+            "homepage": "https://dev-in.tw",
+            "id": 1417720069,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-20T08:40:45Z",
+            "open_issues": 4,
+            "owner": "Dev-in-tw",
+            "repo": "dev-in.tw",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-20T22:45:25.519Z"
+        },
+        {
+          "node_type": "item",
+          "title": "go-live.me",
+          "description": "Claim your free custom domain and instant Anycast subdomain on 'go-live.me'. shanmukhasaireddy13/Go-Live ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Instant, Globally-Distributed Anycast Subdomains for Developers (*.go-live.me) — 1-Click Vercel Deploy & Auto TLS 1.3",
+            "homepage": "https://go-live.me",
+            "id": 1354775459,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-23T12:37:51Z",
+            "open_issues": 0,
+            "owner": "shanmukhasaireddy13",
+            "repo": "Go-Live",
+            "stars": 63,
+            "topics": [
+              "anycast-dns",
+              "cloudflare",
+              "custom-domain",
+              "developer-tools",
+              "dns",
+              "dns-automation",
+              "edge-network",
+              "free-domain",
+              "free-subdomain",
+              "free-subdomains",
+              "go-live",
+              "go-live-me",
+              "nextjs",
+              "subdomain",
+              "vercel"
+            ]
+          },
+          "first_seen": "2026-10-20T22:45:25.519Z"
+        },
+        {
+          "node_type": "item",
+          "title": "from-mm.dev",
+          "description": "Free 'from-mm.dev' subdomain for Myanmar developers. thetmyoekhaing/from-mm.dev ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free subdomains for Myanmar developers",
+            "homepage": "https://from-mm.dev",
+            "id": 1173416646,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-29T02:15:46Z",
+            "open_issues": 2,
+            "owner": "thetmyoekhaing",
+            "repo": "from-mm.dev",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-20T22:45:25.519Z"
+        },
+        {
+          "node_type": "item",
+          "title": "awesomeprojects.tech",
+          "description": "Free 'awesomeprojects.tech' subdomain for your projects. So10-k/awesomeprojects.tech ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free subdomains for your projects: yourname.awesomeprojects.tech",
+            "homepage": "https://github.com/So10-k/awesomeprojects.tech",
+            "id": 1422099984,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-10-20T18:28:56Z",
+            "open_issues": 1,
+            "owner": "So10-k",
+            "repo": "awesomeprojects.tech",
+            "stars": 1,
+            "topics": [
+              "cloudflare",
+              "dns",
+              "dnscontrol",
+              "free-subdomain",
+              "subdomain"
+            ]
+          },
+          "first_seen": "2026-10-20T22:45:25.519Z"
         },
         {
           "node_type": "item",
@@ -1798,7 +1904,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-21T09:54:19Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "is-app-top",
             "repo": "register",
             "stars": 2,
@@ -1943,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:11:01.313Z",
+    "last_updated": "2026-10-20T22:45:25.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A big list of free subdomains for personal websites, portfolios, open-source projects, and other online projects.",
@@ -1951,11 +2057,11 @@
       "id": 1005039612,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-19T12:27:26Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-20T16:54:02Z",
+      "open_issues": 1,
       "owner": "harys722",
       "repo": "free-domains",
-      "stars": 158,
+      "stars": 160,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1979,7 +2085,7 @@
         "website"
       ]
     },
-    "original_repository_sha": "5d142806cd425521a5f3feb7f6cb3fab96ec2607",
+    "original_repository_sha": "1747924fd9667b8cdda89ab78ef9986627a2c5b9",
     "enhanced_repository": "enhansome/enhansome-free-domains",
     "enhanced_repository_description": null,
     "title": "Awesome free domains with stars"
